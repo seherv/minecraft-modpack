@@ -1,0 +1,8 @@
+name = "UNU.Parts.Pack.MTS.1.21.1-24.0.0-6.7.3"
+filename = "UNU.Parts.Pack.MTS.1.21.1-24.0.0-6.7.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/UNU.Parts.Pack.MTS.1.21.1-24.0.0-6.7.3.jar"
+hash-format = "sha256"
+hash = "807bbd2f4566b3c38ab05f7f658c2730ef4c3384c849715b73f81effa8ecca4b"

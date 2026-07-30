@@ -1,0 +1,8 @@
+name = "MTS.Official.Pack-1.21.1-V29-pruned"
+filename = "MTS.Official.Pack-1.21.1-V29-pruned.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/MTS.Official.Pack-1.21.1-V29-pruned.jar"
+hash-format = "sha256"
+hash = "9df3f92b826c46df6a1c847a5a6d7bf994f73ea94db0dd7913b70670168528ba"

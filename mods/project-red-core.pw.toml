@@ -1,0 +1,13 @@
+name = "Project Red Core"
+filename = "ProjectRed-1.21.1-4.23.0-beta+8-core.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zIlxygxr/versions/QIBQU8te/ProjectRed-1.21.1-4.23.0-beta%2B8-core.jar"
+hash-format = "sha512"
+hash = "0c8247213c5e9fcd4a0e5209165129b22d09654d878f191788d466072f5d094e87aa08f2cd80d7acfe241077b34364f02e183b5073a45944ca8ce7c488fd6d87"
+
+[update]
+[update.modrinth]
+mod-id = "zIlxygxr"
+version = "QIBQU8te"

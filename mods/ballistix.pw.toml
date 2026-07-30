@@ -1,0 +1,13 @@
+name = "Ballistix"
+filename = "ballistix-1.21.1-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XeEYk41R/versions/tadixxNI/ballistix-1.21.1-1.0.9.jar"
+hash-format = "sha512"
+hash = "5f37ed0d16a7095dfad5bfa070c58944afcb203d0226df3f96ad05cf9ed9a9661b338867ddf1812d8e025da3d12a554d9e51a17054fee8aaa06bd0ee12bd0b19"
+
+[update]
+[update.modrinth]
+mod-id = "XeEYk41R"
+version = "tadixxNI"

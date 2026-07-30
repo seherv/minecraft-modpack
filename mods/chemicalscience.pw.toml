@@ -1,0 +1,13 @@
+name = "Chemical Science"
+filename = "chemicalscience-1.21.1-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ToQbVMfg/versions/9Vjilh2H/chemicalscience-1.21.1-3.1.2.jar"
+hash-format = "sha512"
+hash = "fa76fbf1f51b46e38fc7d5f74096f6fa9a047ce7c76b324c2c6e88d3b1374e97d1c9ed30e3e7da1d8449ff623b91177da55d7654ddc625c94741e16e4f37b908"
+
+[update]
+[update.modrinth]
+mod-id = "ToQbVMfg"
+version = "9Vjilh2H"

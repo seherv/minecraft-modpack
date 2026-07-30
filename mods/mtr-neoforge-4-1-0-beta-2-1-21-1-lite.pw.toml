@@ -1,0 +1,8 @@
+name = "MTR-neoforge-4.1.0-beta.2.1.21.1.lite"
+filename = "MTR-neoforge-4.1.0-beta.2.1.21.1.lite.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/MTR-neoforge-4.1.0-beta.2.1.21.1.lite.jar"
+hash-format = "sha256"
+hash = "5d80fcc7005525ff0c8dfc4d4c5f2b04170d6487e1f42c7d602d6a06af8884d5"

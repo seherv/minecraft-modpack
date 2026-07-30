@@ -1,0 +1,13 @@
+name = "Finder Compass"
+filename = "findercompass-1.21.1.1NF.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7797c594a715b4ce1cf15085cf4614a43a30c27c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5754504
+project-id = 227885

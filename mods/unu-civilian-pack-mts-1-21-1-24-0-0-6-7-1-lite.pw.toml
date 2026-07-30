@@ -1,0 +1,8 @@
+name = "UNU.Civilian.Pack.MTS.1.21.1-24.0.0-6.7.1.lite"
+filename = "UNU.Civilian.Pack.MTS.1.21.1-24.0.0-6.7.1.lite.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/UNU.Civilian.Pack.MTS.1.21.1-24.0.0-6.7.1.lite.jar"
+hash-format = "sha256"
+hash = "c3ff27e90759549306bffcf35b63e95b8b7c4cdc26c6ec62c4351999d38908d2"

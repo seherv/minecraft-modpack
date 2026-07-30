@@ -1,0 +1,8 @@
+name = "citadel-1.21.1-2.7.6-moonrisefix"
+filename = "citadel-1.21.1-2.7.6-moonrisefix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/citadel-1.21.1-2.7.6-moonrisefix.jar"
+hash-format = "sha256"
+hash = "7bab8335547a631f5ed99dad9bcabeda237ee78d145a85d443a41a70d982641f"

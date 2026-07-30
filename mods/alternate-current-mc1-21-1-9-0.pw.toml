@@ -1,0 +1,8 @@
+name = "alternate_current-mc1.21-1.9.0"
+filename = "alternate_current-mc1.21-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/alternate_current-mc1.21-1.9.0.jar"
+hash-format = "sha256"
+hash = "5b2e0218c9b7e07cbbfd4edf462e16d4f00f2e8d2814061e4c4c534a973c9692"

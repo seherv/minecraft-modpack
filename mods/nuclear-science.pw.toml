@@ -1,0 +1,13 @@
+name = "Nuclear Science"
+filename = "nuclearscience-1.21.1-0.8.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aH4Sud5i/versions/LWbRSOpu/nuclearscience-1.21.1-0.8.8.jar"
+hash-format = "sha512"
+hash = "56a4cb31cf15da2fd2b53f5ce9b761cc7897e1bc4a5e7bd3bb297be45518345ed0eb0a7ea736305ff6e836cd3bb0f50a50ec5a136439eb414f4c1f8938297f45"
+
+[update]
+[update.modrinth]
+mod-id = "aH4Sud5i"
+version = "LWbRSOpu"

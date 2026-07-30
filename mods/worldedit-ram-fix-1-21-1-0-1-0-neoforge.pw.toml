@@ -1,0 +1,8 @@
+name = "WorldEdit-RAM-Fix-1.21.1-0.1.0-neoforge"
+filename = "WorldEdit-RAM-Fix-1.21.1-0.1.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/WorldEdit-RAM-Fix-1.21.1-0.1.0-neoforge.jar"
+hash-format = "sha256"
+hash = "4693b44000b35ee75b857c3f6fe9e7bb8e9343d6953109c0d691158b11e638e5"

@@ -1,0 +1,13 @@
+name = "Ring of Return [FABRIC/FORGE/NEOFORGE]"
+filename = "RingOfReturn-NeoForge-1.21.1-1.8.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "953311b35d1b2321c3ff00b2aa366293f3155002"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5615233
+project-id = 368129

@@ -1,0 +1,8 @@
+name = "Moonrise-NeoForge-0.1.0-beta.15.2eae1b1-mtsfix"
+filename = "Moonrise-NeoForge-0.1.0-beta.15.2eae1b1-mtsfix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/Moonrise-NeoForge-0.1.0-beta.15.2eae1b1-mtsfix.jar"
+hash-format = "sha256"
+hash = "34d033cb16c97c9f6fe3b0e8e1a85dfc961e26330d8e4d632861d624554952d2"

@@ -1,0 +1,13 @@
+name = "Project Red Illumination"
+filename = "ProjectRed-1.21.1-4.23.0-beta+8-illumination.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9a4Zqq1k/versions/GcTR2LIV/ProjectRed-1.21.1-4.23.0-beta%2B8-illumination.jar"
+hash-format = "sha512"
+hash = "4efbcc18435fe8d623613291592fd41b4d1a7279ea16f7e4c4e19278acbf6a5fae3cdc24125d69cce67276546c36802ff4986333e4b716fca51320fde1bde0de"
+
+[update]
+[update.modrinth]
+mod-id = "9a4Zqq1k"
+version = "GcTR2LIV"
