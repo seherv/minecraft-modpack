@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/WorldEdit-Road-1.21.1-0.1.0-neoforge.jar"
 hash-format = "sha256"
-hash = "e8c9d9c7b95b2b31fa77d9ade8adc195b924e1e4795294a20824e37707d8ec3b"
+hash = "202a9e484fc6abebed14667592a78347828f96509ca26849da5bb10b26bca00c"
