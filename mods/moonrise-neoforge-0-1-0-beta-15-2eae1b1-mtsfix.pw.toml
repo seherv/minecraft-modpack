@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/Moonrise-NeoForge-0.1.0-beta.15.2eae1b1-mtsfix.jar"
 hash-format = "sha256"
-hash = "34d033cb16c97c9f6fe3b0e8e1a85dfc961e26330d8e4d632861d624554952d2"
+hash = "963bb24b8251a157536b28d9f411fb4f8b7daca2bf09b0efa4ca337076e38205"

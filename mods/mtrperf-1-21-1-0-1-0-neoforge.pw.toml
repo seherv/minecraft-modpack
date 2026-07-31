@@ -1,0 +1,8 @@
+name = "mtrperf-1.21.1-0.1.0-neoforge"
+filename = "mtrperf-1.21.1-0.1.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/mtrperf-1.21.1-0.1.0-neoforge.jar"
+hash-format = "sha256"
+hash = "15429033ef92053af0c83d84008b3cf059ccbc840b649dd54da45f063c002e0f"

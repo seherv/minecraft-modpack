@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunkcone-1-21-1-0-1-0-neoforge.pw.toml"
-hash = "9916c290beb324c84196861650ce215e25bb984fbfd0b62de6631532edfd0594"
+hash = "7ef2a18bf4ea50bfaf55c98c963a93c2c5cd4c1640aabd5bf4b747a62544bb3a"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonrise-neoforge-0-1-0-beta-15-2eae1b1-mtsfix.pw.toml"
-hash = "e6cac74674a84161bdb0f35477bf2922bcdfd70a2760abf6f75c2e2a0d43c128"
+hash = "a4df416c6bc137fc3ab2a584264a8f81d3d7e4d3fc83c15beb46394e8435a804"
 metafile = true
 
 [[files]]
@@ -428,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/mtr-neoforge-4-1-0-beta-2-1-21-1-lite.pw.toml"
 hash = "5cca264144bb679c61a492580f21e2b3741b7d7b0dc4bee4e41ae9850622c676"
+metafile = true
+
+[[files]]
+file = "mods/mtrperf-1-21-1-0-1-0-neoforge.pw.toml"
+hash = "7598e34b11fc04bc927c3e64e12561bc410c23f93d6011e4316ab5801c57a95b"
 metafile = true
 
 [[files]]
@@ -682,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-road-1-21-1-0-1-0-neoforge.pw.toml"
-hash = "414796b9c3417374dcae8eb8ac9078fb1b3ed43c1bfc24885d15bb06908dbf80"
+hash = "a1020bdcb1ac39680278fbd37851727fff155a200d8a54360d6b0bd455d08aff"
 metafile = true
 
 [[files]]
