@@ -46,11 +46,6 @@ hash = "3434f9ec77694349b7b83e79ef179be25c8eeae83049a75d154098edb5a19889"
 metafile = true
 
 [[files]]
-file = "mods/ballistix.pw.toml"
-hash = "45509614e2241f4ddbc764d24c2b8139ac8860bfa08ce1b9156b70731265b887"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
 metafile = true
