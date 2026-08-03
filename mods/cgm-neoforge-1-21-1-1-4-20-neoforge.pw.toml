@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/cgm-neoforge-1.21.1-1.4.20-neoforge.jar"
 hash-format = "sha256"
-hash = "06154ce2ab3d0a5bb22c9b4496d904a2576c4173bcaca79230fa08d42a4a5c7c"
+hash = "d534fd23cb8c421f12b6e0b8e769277786f44cce346e4ea8dbda80e9967e9db6"
