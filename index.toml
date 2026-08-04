@@ -556,8 +556,8 @@ hash = "d153139321c19e4bea1b8097aacc59a64648addeb3e4bc6b473ca2b3dff82cf1"
 metafile = true
 
 [[files]]
-file = "mods/simplelogin-1-21-1-1-1-0-neoforge.pw.toml"
-hash = "27d9eca57d0eadc651489b333f3166a293353d0feb66e10766e2eafa623dd728"
+file = "mods/simplelogin-1-21-1-1-2-0-neoforge.pw.toml"
+hash = "835b4fdb69629ddb83e5ee8d19c873fec0e2e41a90a9907c083dae9d7d8a66b6"
 metafile = true
 
 [[files]]

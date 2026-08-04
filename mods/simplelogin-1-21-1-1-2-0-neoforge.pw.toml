@@ -1,0 +1,8 @@
+name = "SimpleLogin-1.21.1-1.2.0-neoforge"
+filename = "SimpleLogin-1.21.1-1.2.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/SimpleLogin-1.21.1-1.2.0-neoforge.jar"
+hash-format = "sha256"
+hash = "50826cfd1c3a427f6359e03e34d54edca7272ff55f37c718005584b647673c42"
