@@ -96,8 +96,8 @@ hash = "55bca8c3d631e8c7801081d6d2b00c23cb59a3c17bc7c6b03032aef421ab2c6c"
 metafile = true
 
 [[files]]
-file = "mods/chunkcone-1-21-1-0-1-0-neoforge.pw.toml"
-hash = "7ef2a18bf4ea50bfaf55c98c963a93c2c5cd4c1640aabd5bf4b747a62544bb3a"
+file = "mods/chunkcone-1-21-1-0-1-15-neoforge.pw.toml"
+hash = "02cb41f1f3817e2f79dd662d3b15f6180be531cc91288fd782f93f99111a4ad5"
 metafile = true
 
 [[files]]
@@ -686,8 +686,8 @@ hash = "4996172b5f6d7bbe38a7a11510d8743d03d43c38b408c5189ec274d2d3ba11e5"
 metafile = true
 
 [[files]]
-file = "mods/worldedit-road-1-21-1-0-1-0-neoforge.pw.toml"
-hash = "a1020bdcb1ac39680278fbd37851727fff155a200d8a54360d6b0bd455d08aff"
+file = "mods/worldedit-road-1-21-1-0-1-1-neoforge.pw.toml"
+hash = "f06c3a48c02e06187af04eb48ce7be1735a1150253dfaa71424349286a0b7430"
 metafile = true
 
 [[files]]
