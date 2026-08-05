@@ -336,6 +336,11 @@ hash = "07a4d9588657fac6dc29dcff897ae484f90d1147859382053acd6d18eb662d65"
 metafile = true
 
 [[files]]
+file = "mods/ivtowfix-1-21-1-0-1-0-neoforge.pw.toml"
+hash = "76c4378e9b85f30f50cca175c08b391f794208617174a66f797d905fb8c74d3e"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true

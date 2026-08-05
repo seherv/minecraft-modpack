@@ -1,0 +1,8 @@
+name = "ivtowfix-1.21.1-0.1.0-neoforge"
+filename = "ivtowfix-1.21.1-0.1.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/ivtowfix-1.21.1-0.1.0-neoforge.jar"
+hash-format = "sha256"
+hash = "13707338c7507fee2305c637b20e39d1e62d0acbd108a95118ce8f6b901e7391"
