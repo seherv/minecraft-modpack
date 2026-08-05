@@ -71,8 +71,8 @@ hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
 metafile = true
 
 [[files]]
-file = "mods/cgm-neoforge-1-21-1-1-4-25-neoforge.pw.toml"
-hash = "a8b684fddec660376470f67ffeb9c7f0cd37c6ab70f96c7d308f2f0584971471"
+file = "mods/cgm-neoforge-1-21-1-1-4-27-neoforge.pw.toml"
+hash = "09b7b21fd170d28101f4cb6cc427e9596cb37e3da0f9201435f02315ec0efa84"
 metafile = true
 
 [[files]]
