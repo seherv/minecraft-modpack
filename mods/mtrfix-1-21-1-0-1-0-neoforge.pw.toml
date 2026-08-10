@@ -1,8 +1,0 @@
-name = "mtrfix-1.21.1-0.1.0-neoforge"
-filename = "mtrfix-1.21.1-0.1.0-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/mtrfix-1.21.1-0.1.0-neoforge.jar"
-hash-format = "sha256"
-hash = "8df296d051540fb863238c221764a0c839527ebbe6293f4ce071e509d201430d"
