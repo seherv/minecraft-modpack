@@ -546,6 +546,11 @@ hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
 metafile = true
 
 [[files]]
+file = "mods/replenishing-satchels.pw.toml"
+hash = "c0639a975f0349dcc34cacb32a16e13cd0197d1e87d41a20c8060ec3f3989b3b"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true

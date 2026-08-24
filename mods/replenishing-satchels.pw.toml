@@ -1,0 +1,13 @@
+name = "Replenishing Satchels"
+filename = "replenishingsatchels-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48891df928ffaecf05c2c4b98025548745cdfbd1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8718268
+project-id = 1506755
