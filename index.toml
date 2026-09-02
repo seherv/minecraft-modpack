@@ -706,8 +706,8 @@ hash = "4996172b5f6d7bbe38a7a11510d8743d03d43c38b408c5189ec274d2d3ba11e5"
 metafile = true
 
 [[files]]
-file = "mods/worldedit-road-1-21-1-0-1-5-neoforge.pw.toml"
-hash = "10c3f1580597f164914c5188e6156614e826a9b04fadb6f42329abc5bd499ddf"
+file = "mods/worldedit-road-1-21-1-0-2-3-neoforge.pw.toml"
+hash = "a38fffb619bdb622c8fee0348ddf8e420e2829c45221701423730bdb75ad310c"
 metafile = true
 
 [[files]]
