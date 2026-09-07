@@ -651,8 +651,8 @@ hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
 metafile = true
 
 [[files]]
-file = "mods/tombwarp-1-21-1-1-0-2-neoforge.pw.toml"
-hash = "551ca2a0b0165af33a2956d5e6bfc92db509e406086bd8eb7c4541d2fac51d20"
+file = "mods/tombwarp-1-21-1-1-0-3-neoforge.pw.toml"
+hash = "c770e9aa51ece956378574dee2d70ecc317162737b838aae29bb95eb61912d99"
 metafile = true
 
 [[files]]

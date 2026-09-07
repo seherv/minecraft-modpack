@@ -1,8 +1,0 @@
-name = "TombWarp-1.21.1-1.0.2-neoforge"
-filename = "TombWarp-1.21.1-1.0.2-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/TombWarp-1.21.1-1.0.2-neoforge.jar"
-hash-format = "sha256"
-hash = "7909c4a5bc87db975edf7129d0eecf1fe5d38b57f5217a7efe6aa1987075a221"
