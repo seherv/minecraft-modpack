@@ -1,0 +1,8 @@
+name = "ChunkCone-1.21.1-0.1.16-neoforge"
+filename = "ChunkCone-1.21.1-0.1.16-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/ChunkCone-1.21.1-0.1.16-neoforge.jar"
+hash-format = "sha256"
+hash = "261ddd1020ac30440450f7b4e3ff7f16cb7a880878cd81c8e4c1a1a87f505e6a"
