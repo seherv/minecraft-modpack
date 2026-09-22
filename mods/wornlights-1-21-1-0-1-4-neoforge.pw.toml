@@ -1,0 +1,8 @@
+name = "wornlights-1.21.1-0.1.4-neoforge"
+filename = "wornlights-1.21.1-0.1.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/wornlights-1.21.1-0.1.4-neoforge.jar"
+hash-format = "sha256"
+hash = "89f799bbac851000f664feee9f83e7937a8843d758b53a1102a7420d8ed9c2d5"

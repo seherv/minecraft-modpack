@@ -1,0 +1,8 @@
+name = "cgm-neoforge-1.21.1-1.4.76-neoforge"
+filename = "cgm-neoforge-1.21.1-1.4.76-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/cgm-neoforge-1.21.1-1.4.76-neoforge.jar"
+hash-format = "sha256"
+hash = "7df1724454a6b24132b7a07db636108e2b27ed3bbf88e907839e0f9181d7b853"
