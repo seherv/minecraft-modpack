@@ -76,11 +76,6 @@ hash = "4888a954f546e9e53af1b7b80b4cd12871a1fe9e6c92116b20898c3cd47c39b9"
 metafile = true
 
 [[files]]
-file = "mods/chemicalscience.pw.toml"
-hash = "b5f59af251fc977e54a5c909e1a43880765d8672272f2e44ca023be41a3851a4"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
@@ -463,11 +458,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
-metafile = true
-
-[[files]]
-file = "mods/nuclear-science.pw.toml"
-hash = "7b203eab5192e22460ee8f27f658ec320515b115945b7131b095c6289ac8f861"
 metafile = true
 
 [[files]]
