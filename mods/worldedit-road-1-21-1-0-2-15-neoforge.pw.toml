@@ -1,0 +1,8 @@
+name = "WorldEdit-Road-1.21.1-0.2.15-neoforge"
+filename = "WorldEdit-Road-1.21.1-0.2.15-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/seherv/minecraft-modpack/releases/download/assets/WorldEdit-Road-1.21.1-0.2.15-neoforge.jar"
+hash-format = "sha256"
+hash = "d98dcf14792864a8c55b8087e3a9b39c2ff6443ea1ce4781d6fb0981b1dbf5bd"

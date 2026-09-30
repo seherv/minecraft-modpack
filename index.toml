@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/cgm-neoforge-1-21-1-1-4-76-neoforge.pw.toml"
-hash = "edf261d2a795fedaed1ecfb151049a9d60d4368c294de32afe627655a27d9498"
+hash = "d142ec2ec146e9592b2fef9fbb4c3adf5e2f4d3bc82684b2127b26be82d6ee9f"
 metafile = true
 
 [[files]]
@@ -681,8 +681,8 @@ hash = "4996172b5f6d7bbe38a7a11510d8743d03d43c38b408c5189ec274d2d3ba11e5"
 metafile = true
 
 [[files]]
-file = "mods/worldedit-road-1-21-1-0-2-14-neoforge.pw.toml"
-hash = "007396b013b90fcf8197b4c3e21055abe2721072af1247d75da39f99cf781b52"
+file = "mods/worldedit-road-1-21-1-0-2-15-neoforge.pw.toml"
+hash = "782dc6336f6bf5b66294bde0f362980f17e1d898a34d4df4d1a90fe9e4438476"
 metafile = true
 
 [[files]]
