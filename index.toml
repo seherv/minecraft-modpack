@@ -41,6 +41,11 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "9645a2d42361e38b0747c43f5e82a7f74cd4f06940cad02d6591e7c81835f733"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "3434f9ec77694349b7b83e79ef179be25c8eeae83049a75d154098edb5a19889"
 metafile = true
