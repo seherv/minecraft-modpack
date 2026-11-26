@@ -436,8 +436,8 @@ hash = "e5701e07da0702d87b31a37b22324c160a815d27e6eaadb580843c9a4f00a294"
 metafile = true
 
 [[files]]
-file = "mods/mtrfix-1-21-1-0-1-4-neoforge.pw.toml"
-hash = "6e8af998066068c836ecb15a12259b4b611848e3cb8838f474a397b064d29aa0"
+file = "mods/mtrfix-1-21-1-0-1-8-neoforge.pw.toml"
+hash = "7416f7d74b73ff1ec26a2d214e1a8801a8249d7acf2359e7458dfd50874486c7"
 metafile = true
 
 [[files]]
